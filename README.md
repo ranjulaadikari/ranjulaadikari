@@ -1,6 +1,6 @@
 <!-- Animated wave banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Hi%2C%20I'm%20Ranjula%20Adikari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%40%20SLIIT&descAlignY=58&descSize=18" width="100%" />
+  <img src="./assets/ranjula-player-card.gif" width="100%" alt="Ranjula Adikari" />
 </p>
 
 <!-- Typing animation -->
