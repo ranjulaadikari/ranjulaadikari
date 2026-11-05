@@ -46,7 +46,6 @@ A full-stack web app our team built for a real hotel in Dambulla. Guests can boo
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Real%20Client-7F5AF0?style=flat-square" />
 
-→ [View repo](https://github.com/DilooshaRajapaksha/Hotel-Restaurant-managing-system)
 
 #### 🚚 Smart Fleet & Logistics Management System
 
@@ -54,7 +53,6 @@ My latest project, and our biggest one so far. It's a platform for running fleet
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Latest%20build-2CB67D?style=flat-square" />
 
-→ [View repo](https://github.com/IT24610781/smart-fleet-logistics-management-system)
 
 #### 🤖 Last Light: Research Station
 
@@ -62,7 +60,6 @@ A first-person escape game in Unity. You're trapped in a research station on loc
 
 <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Game%20AI-7F5AF0?style=flat-square" />
 
-→ [View repo](https://github.com/IT24610781/last-light-research-station)
 
 #### 💬 Distributed Messaging System
 
@@ -70,7 +67,6 @@ A messaging system that runs across three replicated servers. We had to make sur
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Distributed%20Systems-2CB67D?style=flat-square" />
 
-→ [View repo](https://github.com/DilooshaRajapaksha/DS---Messaging-System)
 
 #### 🗓️ TaskLang++
 
@@ -78,7 +74,6 @@ My own little language for scheduling tasks, built with Flex and Bison. You can 
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Flex%20%26%20Bison-555?style=flat-square" />
 
-→ [View repo](https://github.com/ranjulaadikari/tasklang-plus-plus)
 
 #### 🎲 Yahtzee in C
 
@@ -86,7 +81,6 @@ The dice game in the terminal, where you play against an AI opponent. One of the
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
 
-→ [View repo](https://github.com/ranjulaadikari/Yahtzee-Game-in-C)
 
 <p align="center">
   <a href="https://github.com/ranjulaadikari?tab=repositories">
