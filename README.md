@@ -1,4 +1,4 @@
-<!-- Animated wave banner -->
+<!-- Animated header -->
 <p align="center">
   <img src="./assets/ranjula-player-card.gif" width="100%" alt="Ranjula Adikari" />
 </p>
@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/ranjulaadikari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=640&lines=Building+languages%2C+games+and+systems;Wrote+my+own+DSL+with+Flex+%26+Bison;Microservices+%7C+Distributed+Systems+%7C+Unity;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=640&lines=Full-stack+developer+in+the+making;React+%2B+Spring+Boot+%2B+ASP.NET;Building+systems+for+real+users;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,94 +20,73 @@
 
 ---
 
-## 👋 About me
+### 👋 About me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+I'm a Computer Science undergraduate at **SLIIT** who enjoys building software from end to end: designing the database, writing the APIs behind it, and putting a clean, usable interface on top. Most of what I build is full-stack, and I like it best when there's a real person on the other side using it, whether that's a hotel owner taking bookings or a dispatcher tracking a fleet of vehicles.
 
-I'm a Computer Science undergraduate at **SLIIT** who likes understanding how things work under the hood — from writing a lexer and parser for my own language, to splitting a system into microservices, to keeping replicated servers in sync. I enjoy working in teams and turning assignment ideas into things that actually run.
+I also like understanding what's happening underneath. I've written my own small programming language, built AI-driven robots for a Unity game, and worked on keeping replicated servers in sync. Those projects made me a better full-stack developer, because I understand the systems my code runs on.
 
-- 🔭 **Recently built:** TaskLang++, a task-scheduling language with its own grammar
-- 🌱 **Learning:** distributed systems, event-driven design with Kafka, cloud deployment
-- 🎮 **Also into:** game development with Unity and game AI
-- 🤝 **Open to:** internships and collaborating on interesting projects
+**What I'm into:**
+- Full-stack web development (React + Spring Boot / ASP.NET)
+- REST API and backend design
+- Microservices and distributed systems
+- Database design with MySQL
+- Game development and AI with Unity
 
-<br clear="right"/>
-
----
-
-## 🧰 Tech stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cs,python,js,html,css&perline=8&theme=dark" />
-
-**Frontend & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,vite,dotnet,nodejs&perline=8&theme=dark" />
-
-**Data, Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,docker,kafka,azure,githubactions,linux&perline=8&theme=dark" />
-
-**Game Dev & Tools**
-
-<img src="https://skillicons.dev/icons?i=unity,git,github,vscode,visualstudio,selenium&perline=8&theme=dark" />
-
-<img src="https://img.shields.io/badge/Flex%20%26%20Bison-555?style=for-the-badge&logo=gnu&logoColor=white" />
+**Latest build:**
+- 🚚 **Smart Fleet & Logistics**, a microservice-based platform for managing vehicles, drivers, trips and live tracking
 
 ---
 
-## 🚀 Featured projects
+### 🛠️ Things I've built
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗓️ <a href="https://github.com/ranjulaadikari/tasklang-plus-plus">TaskLang++</a></h3>
-      <p>My own domain-specific language for scheduling and automating tasks. Supports time-based schedules, <code>AFTER</code> dependencies, <code>IF success / failure</code> conditions, and detects circular dependencies — with a Flex lexer and a Bison grammar.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flex%20%26%20Bison-555?style=flat-square" />
-      <img src="https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎲 <a href="https://github.com/ranjulaadikari/Yahtzee-Game-in-C">Yahtzee in C</a></h3>
-      <p>A terminal-based Yahtzee dice game where you play against an AI opponent that decides which dice to keep and where to score.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Game%20AI-7F5AF0?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚚 <a href="https://github.com/IT24610781/smart-fleet-logistics-management-system">Smart Fleet & Logistics</a></h3>
-      <p>Team project: a microservice-based platform for managing vehicles, drivers, trips, dispatch and live tracking, with separate Auth, Fleet, Dispatch and Telemetry services.</p>
-      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/IT24610781/last-light-research-station">Last Light Research Station</a></h3>
-      <p>Team project: a first-person Unity game set in a research station, featuring intelligent robot agents.</p>
-      <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/DilooshaRajapaksha/DS---Messaging-System">Distributed Messaging System</a></h3>
-      <p>Team project: a messaging system running across three replicated servers, covering replication, consistency, time synchronisation and consensus.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Distributed%20Systems-2CB67D?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏨 <a href="https://github.com/DilooshaRajapaksha/Hotel-Restaurant-managing-system">Hotel & Restaurant System</a></h3>
-      <p>Team project for a real client in Dambulla: hotel management plus a delivery system for the restaurant.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Real%20Client-7F5AF0?style=flat-square" />
-    </td>
-  </tr>
-</table>
+#### 🏨 Golden Stars Hotel & Restaurant System
+
+A full-stack web app our team built for a real hotel in Dambulla. Guests can book rooms (with photos and a 360° virtual tour), order from the restaurant menu and track their food; delivery riders get their own view to manage drops; and the owner runs everything from an admin dashboard. We worked in four sprints and rotated roles between project manager, developer and QA, so I got to see the project from every side, not just the code.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Real%20Client-7F5AF0?style=flat-square" />
+
+→ [View repo](https://github.com/DilooshaRajapaksha/Hotel-Restaurant-managing-system)
+
+#### 🚚 Smart Fleet & Logistics Management System
+
+My latest project, and our biggest one so far. It's a platform for running fleet operations: vehicles, drivers, trips, dispatching and live tracking. Instead of one big app, it's split into four independent services (auth, fleet, dispatch, and tracking & telemetry) behind a React frontend, so a lot of the work was deciding where each responsibility lives and how the services talk to each other. Kafka is planned for streaming live vehicle telemetry.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Latest%20build-2CB67D?style=flat-square" />
+
+→ [View repo](https://github.com/IT24610781/smart-fleet-logistics-management-system)
+
+#### 🤖 Last Light: Research Station
+
+A first-person escape game in Unity. You're trapped in a research station on lockdown and have to restore power and reach the evacuation terminal while robots hunt you. Each robot thinks differently: one listens for noise and investigates it, a repair bot decides which injured ally to heal first, and a hidden "director" AI decides when and where new robots should appear. Making them feel smart without being unfair was the fun part.
+
+<img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Game%20AI-7F5AF0?style=flat-square" />
+
+→ [View repo](https://github.com/IT24610781/last-light-research-station)
+
+#### 💬 Distributed Messaging System
+
+A messaging system that runs across three replicated servers. We had to make sure messages survive when a server goes down, keep the copies consistent, synchronise clocks between machines and get the servers to agree through consensus: all the things that sound simple until you actually build them.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Distributed%20Systems-2CB67D?style=flat-square" />
+
+→ [View repo](https://github.com/DilooshaRajapaksha/DS---Messaging-System)
+
+#### 🗓️ TaskLang++
+
+My own little language for scheduling tasks, built with Flex and Bison. You can say when a task runs, what it depends on, and what should happen if it fails. Detecting tasks that depend on each other in a loop was the trickiest part to get right.
+
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Flex%20%26%20Bison-555?style=flat-square" />
+
+→ [View repo](https://github.com/ranjulaadikari/tasklang-plus-plus)
+
+#### 🎲 Yahtzee in C
+
+The dice game in the terminal, where you play against an AI opponent. One of the first complete programs I wrote, and I still like playing it.
+
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+
+→ [View repo](https://github.com/ranjulaadikari/Yahtzee-Game-in-C)
 
 <p align="center">
   <a href="https://github.com/ranjulaadikari?tab=repositories">
@@ -117,7 +96,35 @@ I'm a Computer Science undergraduate at **SLIIT** who likes understanding how th
 
 ---
 
-## 📊 GitHub activity
+### 🧰 What I use
+
+**🧑‍💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=java,c,cs,python,js,html,css&perline=8&theme=dark" />
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css&perline=8&theme=dark" />
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs&perline=8&theme=dark" />
+
+**🗄️ Databases, Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,kafka,azure,githubactions,linux&perline=8&theme=dark" />
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,postman,git,github,selenium&perline=8&theme=dark" />
+
+**🎮 Game Dev**
+
+<img src="https://skillicons.dev/icons?i=unity,blender&perline=8&theme=dark" />
+
+---
+
+### 📊 GitHub activity
 
 <!-- Cards generated by .github/workflows/summary-cards.yml -->
 <p align="center">
@@ -144,16 +151,16 @@ I'm a Computer Science undergraduate at **SLIIT** who likes understanding how th
 
 ---
 
-## 📫 Let's connect
+### 📫 Say hi
+
+I'm looking for an internship in full-stack or backend development, and I'm always up for building something interesting with others.
 
 <!-- Replace YOUR_LINKEDIN with your LinkedIn handle, or delete that badge -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ranjula-adikari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ranjulaadikari2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ranjulaadikari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>Thanks for stopping by — always happy to team up on something interesting.</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" width="100%" />
