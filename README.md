@@ -15,7 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=ranjulaadikari&label=Profile%20Views&color=7F5AF0&style=flat-square" />
   <img src="https://img.shields.io/github/followers/ranjulaadikari?label=Followers&style=flat-square&color=2CB67D&logo=github" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-7F5AF0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-2CB67D?style=flat-square" />
 </p>
 
 ---
